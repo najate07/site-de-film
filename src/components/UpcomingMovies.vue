@@ -1,7 +1,7 @@
 <template>
   <div id="example">
     <h2 class="mx-3 grey--text">
-      Upcoming Movies
+      Prochains Films
     </h2>
     <carousel-3d
       :controls-visible="true"

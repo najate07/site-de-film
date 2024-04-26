@@ -88,7 +88,7 @@
                 </v-row>
               
       <p class="mt-5 grey--text text--darken-3 subheader">{{ this.actor.biography }}</p>
-      <h4 class="mt-1 grey--text">Known For</h4>
+      <h4 class="mt-1 grey--text">Connu pour</h4>
       <v-row>
            <v-col cols="12" sm="3" :key="movie.id" v-for="movie in this.knownFor" class="mt-5">
                  <v-hover

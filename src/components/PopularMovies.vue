@@ -1,6 +1,6 @@
 <template>
   <div class="mx-3">
-      <h2 class="mt-2 grey--text"> Popular Movies</h2>
+      <h2 class="mt-2 grey--text"> Films populaires</h2>
      <v-container fluid>
     <v-row>
         <v-col cols="12" sm="3" v-for="movie in movies" :key="movie.id"  >

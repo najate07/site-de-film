@@ -22,13 +22,13 @@
       </v-card-text>
 
       <v-card-text class="white--text pt-0">
-Nulla placerat augue vel ipsum ultrices, cursus iaculis dui sollicitudin. Vestibulum eu ipsum vel diam elementum tempor vel ut orci. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.
+
       </v-card-text>
 
       <v-divider></v-divider>
 
       <v-card-text class="white--text">
-        {{ new Date().getFullYear() }} — <strong>AAE IdeaPro</strong>
+        {{ new Date().getFullYear() }} — <strong>moviesync</strong>
       </v-card-text>
     </v-card>
   </v-footer>

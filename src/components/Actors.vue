@@ -1,6 +1,6 @@
 <template>
   <div class="mx-3">
-      <h2 class="mt-2 grey--text"> Popular Actors</h2>    
+      <h2 class="mt-2 grey--text"> Acteurs populaires</h2>    
       <v-container fluid>
           <v-row>
                 <v-col cols="12" sm="3" :key="actor.id" v-for="actor in this.actors">
